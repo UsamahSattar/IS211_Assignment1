@@ -1,4 +1,4 @@
-# assignment1_part1.py
+
 
 class ListDivideException(Exception):
     """Raised when a list_divide test fails."""
