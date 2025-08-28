@@ -1,4 +1,4 @@
-# assignment1_part2.py
+
 
 class Book:
     author = ""
